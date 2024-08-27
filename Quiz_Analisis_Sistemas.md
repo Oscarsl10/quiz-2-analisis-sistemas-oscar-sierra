@@ -80,3 +80,5 @@ Se podría implementar un sistema de bonificaciones que se pueda adaptar a los h
 ### Mejora en la transparencia:
 
 También se puede implementar una interfaz o un apartado para que el cliente vea en tiempo real su acumulación de puntos y también poder mirar las posibilidades que tiene de ganar un premio, esto con el fin de mejorar la transparencia.
+
+Att: Oscar Guillermo Sierra Lozano.
